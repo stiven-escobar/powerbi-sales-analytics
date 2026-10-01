@@ -1,6 +1,6 @@
 # 📊 Sales Analytics Dashboard - Power BI
 ## 🚀 Cómo Visualizar y Explorar el Proyecto
-1. 📥 **[Haz clic aquí para ver y descargar el archivo Power BI](https://github.com/stiven-escobar/powerbi-sales-analytics/blob/main/project1.pbix.pbix)**
+1.1. 📥 **[Haz clic aquí para ver y descargar el archivo Power BI](https://github.com/stiven-escobar/powerbi-sales-analytics/blob/main/project1.pbix)**
 2. Presiona el botón **Download** (o ⬇️) que aparece en la esquina superior derecha.
 3. Abre el archivo descargado en **Power BI Desktop**.
 
