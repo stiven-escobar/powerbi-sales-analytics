@@ -1,5 +1,9 @@
 # 📊 Sales Analytics Dashboard - Power BI
 
+## 🚀 Cómo Visualizar y Explorar el Proyecto
+1. 📥 **[Haz clic aquí para descargar el archivo Power BI (.pbix)](https://github.com/stiven-escobar/powerbi-sales-analytics/raw/main/project1.pbix)**
+2. Abre el archivo descargado en **Power BI Desktop**.
+3. Explora interactiva y libremente el modelo de datos, los filtros y las medidas DAX.
 ## 📌 Descripción del Proyecto
 Este proyecto consiste en un **dashboard interactivo desarrollado en Power BI** diseñado para la supervisión, análisis y toma de decisiones estratégicas basadas en el rendimiento de ventas. Permite evaluar indicadores clave de gestión (KPIs), identificar tendencias comerciales y optimizar el análisis de resultados.
 
