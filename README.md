@@ -8,13 +8,13 @@ Este proyecto consiste en un **dashboard interactivo desarrollado en Power BI** 
 ## 🖼️ Vista Previa del Dashboard
 
 ### 🔹 Recuento de Transacciones
-![Recuento](screenshots/recuento.png)
+![Recuento](screenshots/recuento.PNG)
 
 ### 🔹 Suma de Precios y Detalle
-![Suma Precio](screenshots/suma%20precio.png)
+![Suma Precio](screenshots/suma%20precio.PNG)
 
 ### 🔹 Análisis General de Ventas
-![Suma](screenshots/suma.png)
+![Suma](screenshots/suma.PNG)
 
 ---
 
@@ -40,7 +40,7 @@ powerbi-sales-analytics/
 │
 ├── project1.pbix             # Archivo principal de Power BI Desktop
 ├── screenshots/              # Capturas de pantalla e imágenes del reporte
-│   ├── recuento.png
-│   ├── suma precio.png
-│   └── suma.png
+│   ├── recuento.PNG
+│   ├── suma precio.PNG
+│   └── suma.PNG
 └── README.md                 # Documentación del proyecto
